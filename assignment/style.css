@@ -1,6 +1,12 @@
 body {
   background-image: url('record.png');
   background-repeat: repeat;
+  margin: 0;
+}
+
+main {
+  background-color: #d6d6d6;
+  padding: 1em;
 }
 
 .header-style {
