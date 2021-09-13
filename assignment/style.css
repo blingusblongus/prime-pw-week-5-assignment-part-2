@@ -1,3 +1,5 @@
-body {
-  background-color: pink;
+.header-style {
+    background-color: #220a3b;
+    color: #e434bd;
+    text-align: center;
 }
