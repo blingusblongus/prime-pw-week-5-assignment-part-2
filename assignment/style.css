@@ -1,3 +1,8 @@
+body {
+  background-image: url('record.png');
+  background-repeat: repeat;
+}
+
 .header-style {
     background-color: #220a3b;
     color: #e434bd;
